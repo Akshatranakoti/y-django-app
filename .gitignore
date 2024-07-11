@@ -1,0 +1,10 @@
+# Ignore virtual environment files
+venv/
+
+# Ignore local Docker configurations
+.dockerignore
+
+# Ignore sensitive or environment-specific settings
+.env
+
+# Add more entries as needed
